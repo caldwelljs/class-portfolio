@@ -1,0 +1,89 @@
+#container {
+	background-color: #BABAB8;
+	width: 90%;
+	padding: 5px 0 10px 0;
+}
+
+h2 {
+	color: #75766C;
+	background-color: #DDDDDB;
+	font-family: arial;
+	padding: 20px;
+	margin: 20px 20px 20px 20px;
+}
+
+p {
+	padding: 3px;
+	margin: 0px;
+}
+
+span {
+	font-size: 30px;
+}
+
+.scale {
+	margin: 0px 20px 0px 20px;
+	color: white;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight: 100;
+}
+
+#fourteen {
+	background-color: #367BAF;
+}
+
+#thirteen {
+	background-color: #3688BA;
+}
+
+#twelve {
+	background-color: #3192C2;
+}
+
+#eleven {
+	background-color: #469FCB;
+}
+
+#ten {
+	background-color: #5FADD2;
+}
+
+#nine {
+	background-color: #75BADA;
+}
+
+#eight {
+	background-color: #8CC3DE;
+}
+
+#seven {
+	background-color: #23AB7F;
+}
+
+#six {
+	background-color: #E9AAC1;
+}
+
+#five {
+	background-color: #E797B3;
+}
+
+#four {
+	background-color: #E587A8;
+}
+
+#three {
+	background-color: #E2749A;
+}
+
+#two {
+	background-color: #E0648A;
+}
+
+#one {
+	background-color: #DE567F;
+}
+
+#zero {
+	background-color: #DA3E75;
+}
